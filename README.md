@@ -1,7 +1,7 @@
 # Hi Good People!
 - 👋 I’m Farhad Hossain.
 - 👀 I’m interested in Database Administration.
-- 🌱 I’m currently learning Oracle Database Administration (11g Express edition)
+- 🌱 I’m currently learning MySQL Database Administration.
 
 <!---
 FarhadHossainTanvir/FarhadHossainTanvir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
